@@ -1,55 +1,65 @@
-<h1 align="center">Olá! 👋 Eu sou Alessandra Batista</h1>
+<h1 align="center">Olá, eu sou Alessandra Batista 👋</h1>
 
 <h3 align="center">
-Analista de Dados | Python | SQL | Power BI | ETL | AWS ☁️
+💻 Data Analyst | Python • SQL • Power BI • ETL • AWS
 </h3>
 
 <p align="center">
-Transformando dados em informações que apoiam decisões e geram resultados.
+Transformando dados em insights para apoiar decisões inteligentes.
 </p>
-
----
-
-## 👩‍💻 Sobre mim
-
-🎓 Formada em Análise e Desenvolvimento de Sistemas
-
-📊 Apaixonada por Dados, Business Intelligence e Analytics
-
-🐍 Desenvolvendo projetos com Python, SQL e Power BI
-
-📚 Atualmente estudando Cloud Computing (AWS)
-
-
----
-
-## 💻 Tecnologias & Ferramentas
-
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45"/>
-
-
-</div>
-
-<br>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/ETL-00599C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AWS%20Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=orange"/>
+<a href="https://www.linkedin.com/in/alessandra-batista-677b572b5">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:alessandrabatistafe@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/alessandra670">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </p>
 
-## 🏆 Certificações
+---
+
+# 👩‍💻 Sobre mim
+
+🎓 Formada em Análise e Desenvolvimento de Sistemas
+
+📊 Apaixonada por Dados, BI e Analytics
+
+🐍 Desenvolvendo soluções utilizando Python, SQL e Power BI
+
+⚙️ Experiência com ETL e automação de processos
+
+☁️ Estudando AWS Cloud
+
+📈 Sempre aprendendo novas tecnologias
+
+---
+
+# 🚀 Tecnologias
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,postgresql,git,github,vscode"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ETL-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AWS_Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=orange"/>
+
+</p>
+
+# 🏆 Certificações
 
 📖 Google Data Analytics
 
@@ -57,7 +67,7 @@ Transformando dados em informações que apoiam decisões e geram resultados.
 
 ---
 
-## 🌎 Vamos nos conectar?
+# 🌎 Onde me encontrar
 
 <p align="center">
 
@@ -66,29 +76,23 @@ Transformando dados em informações que apoiam decisões e geram resultados.
 </a>
 
 <a href="mailto:alessandrabatistafe@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/alessandra670">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
 
 ---
 
-<div align="center">
+<p align="center">
 
-![](https://komarev.com/ghpvc/?username=alessandra670&color=blueviolet&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=alessandra670&style=for-the-badge&color=blueviolet"/>
 
-</div>
-
----
+</p>
 
 <h3 align="center">
-⭐ Obrigada por visitar meu perfil! ⭐
+⭐ Obrigada pela visita!
 </h3>
 
 <p align="center">
-Sempre aprendendo, construindo projetos e transformando dados em soluções.
+Sempre construindo projetos e evoluindo na área de Dados.
 </p>
