@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Alessandra Batista 👋</h1>
+<h1 align="center">⭐ Bem-vindo ao meu GitHub!</h1>
 
 <h3 align="center">
 💻 Data Analyst | Python • SQL • Power BI • ETL • AWS
@@ -28,17 +28,14 @@ Transformando dados em insights para apoiar decisões inteligentes.
 
 # 💙 Sobre mim
 
-🎓 Formada em Análise e Desenvolvimento de Sistemas
+👋 Olá, sou Alessandra Batista!
 
-📊 Apaixonada por Dados, BI e Analytics
-
-🐍 Desenvolvendo soluções utilizando Python, SQL e Power BI
-
-⚙️ Experiência com ETL e automação de processos
-
-☁️ Estudando AWS Cloud
-
-📈 Sempre aprendendo novas tecnologias
+- 🌎 São Paulo, Brasil
+- 🎓 Formada em Análise e Desenvolvimento de Sistemas
+- 💼 Analista de Dados com experiência em SQL, Python, Power BI e processos de ETL
+- 📊 Apaixonada por transformar dados em insights para apoiar a tomada de decisão
+- ☁️ Estudando AWS Cloud e aprofundando meus conhecimentos em Engenharia de Dados
+- 🚀 Sempre aprendendo novas tecnologias e desenvolvendo projetos para aprimorar minhas habilidades
 
 ---
 
@@ -58,6 +55,8 @@ Transformando dados em insights para apoiar decisões inteligentes.
 <img src="https://img.shields.io/badge/AWS_Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=orange"/>
 
 </p>
+
+---
 
 # 🏆 Certificações
 
