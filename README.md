@@ -26,7 +26,7 @@ Transformando dados em insights para apoiar decisões inteligentes.
 
 ---
 
-# 👩‍💻 Sobre mim
+# 💙 Sobre mim
 
 🎓 Formada em Análise e Desenvolvimento de Sistemas
 
