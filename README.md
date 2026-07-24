@@ -51,57 +51,6 @@ Transformando dados em informações que apoiam decisões e geram resultados.
 
 ---
 
-# 🚀 Projetos em Destaque
-
-## 📊 Mercado de Trabalho em Dados no Brasil
-
-Projeto completo utilizando vagas reais da API Adzuna.
-
-### Tecnologias
-
-- Python
-- Pandas
-- SQL
-- Power BI
-- API REST
-- ETL
-
-### Funcionalidades
-
-✔ Coleta automática de vagas
-
-✔ Tratamento dos dados
-
-✔ Armazenamento em banco SQL
-
-✔ Dashboard interativo no Power BI
-
----
-
-## 🗄 Projeto SQL
-
-Consultas avançadas utilizando:
-
-- JOIN
-- CTE
-- Window Functions
-- Subqueries
-- Agregações
-
----
-
-## 🤖 Automações em Python
-
-Scripts para:
-
-- Automação de processos
-- Manipulação de planilhas
-- ETL
-- Consumo de APIs
-- Geração de relatórios
-
----
-
 # 📈 Estatísticas
 
 <div align="center">
