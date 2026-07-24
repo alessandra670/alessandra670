@@ -49,16 +49,6 @@ Transformando dados em informações que apoiam decisões e geram resultados.
 
 </p>
 
-## 🔥 Sequência de Contribuições
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=alessandra670&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 ## 🏆 Certificações
 
 📖 Google Data Analytics
